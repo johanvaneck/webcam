@@ -4,9 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { MyWebCam } from './WebCam';
+
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <MyWebCam />
   </React.StrictMode>,
   document.getElementById('root')
 );
