@@ -7,7 +7,7 @@ export class MyWebCam extends React.Component{
         <div>
             <h1>Welcome to my webcam!</h1>
             <p>The webcam should show below this.</p>
-            <Webcam />;
+                <Webcam />;
             <p>The webcam should show above this.</p> 
         </div>
         );
