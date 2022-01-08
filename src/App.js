@@ -178,7 +178,7 @@ export class App extends React.Component{
   makeVideos(){
     return (
       <div>
-        <video id='host' width='500px' height='300px' controls>
+        <video id='host' width='500px' height='300px'>
           <source src={this.state.video['srcHost']} />
           No host video
         </video>
