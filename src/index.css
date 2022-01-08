@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+h1 {
+  margin: auto;
+}
+
 div {
   background-color: lightgray;
 }
@@ -22,4 +26,15 @@ button {
 
 video {
   background-color: black;
+  margin: 0 0 20px 20px;
+}
+
+button {
+  margin: 10px;
+  width: 100px;
+  height: 30px;
+}
+
+#buttonGroup {
+  margin: 0 0 0 20px
 }
