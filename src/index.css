@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+div {
+  background-color: lightgray;
+}
+
+button {
+  background-color: rgb(146, 205, 211);
+}
